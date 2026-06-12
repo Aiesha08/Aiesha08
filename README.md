@@ -23,15 +23,18 @@
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Aiesha08/Aiesha08/tree/master/0144-binary-tree-preorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/Aiesha08/Aiesha08/tree/master/0222-count-complete-tree-nodes) |
+| [0543-diameter-of-binary-tree](https://github.com/Aiesha08/Aiesha08/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Aiesha08/Aiesha08/tree/master/0144-binary-tree-preorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/Aiesha08/Aiesha08/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Aiesha08/Aiesha08/tree/master/0144-binary-tree-preorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/Aiesha08/Aiesha08/tree/master/0222-count-complete-tree-nodes) |
+| [0543-diameter-of-binary-tree](https://github.com/Aiesha08/Aiesha08/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Search
 |  |
 | ------- |
