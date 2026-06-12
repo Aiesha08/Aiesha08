@@ -22,6 +22,7 @@
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Aiesha08/Aiesha08/tree/master/0144-binary-tree-preorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/Aiesha08/Aiesha08/tree/master/0222-count-complete-tree-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -30,4 +31,13 @@
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Aiesha08/Aiesha08/tree/master/0144-binary-tree-preorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/Aiesha08/Aiesha08/tree/master/0222-count-complete-tree-nodes) |
+## Binary Search
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Aiesha08/Aiesha08/tree/master/0222-count-complete-tree-nodes) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Aiesha08/Aiesha08/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
