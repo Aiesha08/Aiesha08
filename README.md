@@ -40,6 +40,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Aiesha08/Aiesha08/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/Aiesha08/Aiesha08/tree/master/0222-count-complete-tree-nodes) |
+| [0278-first-bad-version](https://github.com/Aiesha08/Aiesha08/tree/master/0278-first-bad-version) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -56,4 +57,8 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Aiesha08/Aiesha08/tree/master/0209-minimum-size-subarray-sum) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Aiesha08/Aiesha08/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
