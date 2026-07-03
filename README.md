@@ -52,6 +52,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Aiesha08/Aiesha08/tree/master/0209-minimum-size-subarray-sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aiesha08/Aiesha08/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0500-keyboard-row](https://github.com/Aiesha08/Aiesha08/tree/master/0500-keyboard-row) |
 ## Sliding Window
 |  |
 | ------- |
@@ -69,6 +70,7 @@
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aiesha08/Aiesha08/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Aiesha08/Aiesha08/tree/master/0389-find-the-difference) |
+| [0500-keyboard-row](https://github.com/Aiesha08/Aiesha08/tree/master/0500-keyboard-row) |
 ## Two Pointers
 |  |
 | ------- |
@@ -82,4 +84,5 @@
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/Aiesha08/Aiesha08/tree/master/0389-find-the-difference) |
+| [0500-keyboard-row](https://github.com/Aiesha08/Aiesha08/tree/master/0500-keyboard-row) |
 <!---LeetCode Topics End-->
