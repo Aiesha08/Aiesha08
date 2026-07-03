@@ -53,6 +53,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Aiesha08/Aiesha08/tree/master/0209-minimum-size-subarray-sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aiesha08/Aiesha08/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0500-keyboard-row](https://github.com/Aiesha08/Aiesha08/tree/master/0500-keyboard-row) |
+| [0575-distribute-candies](https://github.com/Aiesha08/Aiesha08/tree/master/0575-distribute-candies) |
 ## Sliding Window
 |  |
 | ------- |
@@ -71,6 +72,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aiesha08/Aiesha08/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Aiesha08/Aiesha08/tree/master/0389-find-the-difference) |
 | [0500-keyboard-row](https://github.com/Aiesha08/Aiesha08/tree/master/0500-keyboard-row) |
+| [0575-distribute-candies](https://github.com/Aiesha08/Aiesha08/tree/master/0575-distribute-candies) |
 ## Two Pointers
 |  |
 | ------- |
