@@ -89,4 +89,16 @@
 | ------- |
 | [0389-find-the-difference](https://github.com/Aiesha08/Aiesha08/tree/master/0389-find-the-difference) |
 | [0500-keyboard-row](https://github.com/Aiesha08/Aiesha08/tree/master/0500-keyboard-row) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Aiesha08/Aiesha08/tree/master/0002-add-two-numbers) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Aiesha08/Aiesha08/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Aiesha08/Aiesha08/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
