@@ -93,6 +93,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Aiesha08/Aiesha08/tree/master/0002-add-two-numbers) |
+| [0024-swap-nodes-in-pairs](https://github.com/Aiesha08/Aiesha08/tree/master/0024-swap-nodes-in-pairs) |
 ## Math
 |  |
 | ------- |
@@ -101,4 +102,5 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Aiesha08/Aiesha08/tree/master/0002-add-two-numbers) |
+| [0024-swap-nodes-in-pairs](https://github.com/Aiesha08/Aiesha08/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
