@@ -56,6 +56,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aiesha08/Aiesha08/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0500-keyboard-row](https://github.com/Aiesha08/Aiesha08/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/Aiesha08/Aiesha08/tree/master/0575-distribute-candies) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Aiesha08/Aiesha08/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Sliding Window
 |  |
 | ------- |
@@ -80,11 +81,13 @@
 | ------- |
 | [0125-valid-palindrome](https://github.com/Aiesha08/Aiesha08/tree/master/0125-valid-palindrome) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aiesha08/Aiesha08/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Aiesha08/Aiesha08/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Sorting
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aiesha08/Aiesha08/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Aiesha08/Aiesha08/tree/master/0389-find-the-difference) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Aiesha08/Aiesha08/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## String
 |  |
 | ------- |
@@ -105,4 +108,8 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Aiesha08/Aiesha08/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/Aiesha08/Aiesha08/tree/master/0024-swap-nodes-in-pairs) |
+## Greedy
+|  |
+| ------- |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Aiesha08/Aiesha08/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 <!---LeetCode Topics End-->
