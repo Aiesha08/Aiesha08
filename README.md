@@ -92,6 +92,7 @@
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/Aiesha08/Aiesha08/tree/master/0006-zigzag-conversion) |
 | [0020-valid-parentheses](https://github.com/Aiesha08/Aiesha08/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Aiesha08/Aiesha08/tree/master/0125-valid-palindrome) |
 | [0389-find-the-difference](https://github.com/Aiesha08/Aiesha08/tree/master/0389-find-the-difference) |
