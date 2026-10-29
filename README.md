@@ -57,6 +57,7 @@
 | [0066-plus-one](https://github.com/Aiesha08/Aiesha08/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Aiesha08/Aiesha08/tree/master/0088-merge-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Aiesha08/Aiesha08/tree/master/0209-minimum-size-subarray-sum) |
+| [0217-contains-duplicate](https://github.com/Aiesha08/Aiesha08/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aiesha08/Aiesha08/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0500-keyboard-row](https://github.com/Aiesha08/Aiesha08/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/Aiesha08/Aiesha08/tree/master/0575-distribute-candies) |
@@ -78,6 +79,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/Aiesha08/Aiesha08/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Aiesha08/Aiesha08/tree/master/0013-roman-to-integer) |
+| [0217-contains-duplicate](https://github.com/Aiesha08/Aiesha08/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aiesha08/Aiesha08/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Aiesha08/Aiesha08/tree/master/0389-find-the-difference) |
 | [0500-keyboard-row](https://github.com/Aiesha08/Aiesha08/tree/master/0500-keyboard-row) |
@@ -94,6 +96,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Aiesha08/Aiesha08/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/Aiesha08/Aiesha08/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aiesha08/Aiesha08/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Aiesha08/Aiesha08/tree/master/0389-find-the-difference) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Aiesha08/Aiesha08/tree/master/1877-minimize-maximum-pair-sum-in-array) |
