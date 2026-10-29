@@ -54,6 +54,7 @@
 | ------- |
 | [0027-remove-element](https://github.com/Aiesha08/Aiesha08/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aiesha08/Aiesha08/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0066-plus-one](https://github.com/Aiesha08/Aiesha08/tree/master/0066-plus-one) |
 | [0209-minimum-size-subarray-sum](https://github.com/Aiesha08/Aiesha08/tree/master/0209-minimum-size-subarray-sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aiesha08/Aiesha08/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0500-keyboard-row](https://github.com/Aiesha08/Aiesha08/tree/master/0500-keyboard-row) |
@@ -114,6 +115,7 @@
 | [0002-add-two-numbers](https://github.com/Aiesha08/Aiesha08/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/Aiesha08/Aiesha08/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Aiesha08/Aiesha08/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/Aiesha08/Aiesha08/tree/master/0066-plus-one) |
 ## Recursion
 |  |
 | ------- |
