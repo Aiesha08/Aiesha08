@@ -52,6 +52,7 @@
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Aiesha08/Aiesha08/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aiesha08/Aiesha08/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Aiesha08/Aiesha08/tree/master/0209-minimum-size-subarray-sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aiesha08/Aiesha08/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -82,6 +83,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Aiesha08/Aiesha08/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/Aiesha08/Aiesha08/tree/master/0125-valid-palindrome) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aiesha08/Aiesha08/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Aiesha08/Aiesha08/tree/master/1877-minimize-maximum-pair-sum-in-array) |
