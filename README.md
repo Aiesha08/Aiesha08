@@ -55,6 +55,7 @@
 | [0027-remove-element](https://github.com/Aiesha08/Aiesha08/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aiesha08/Aiesha08/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0066-plus-one](https://github.com/Aiesha08/Aiesha08/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/Aiesha08/Aiesha08/tree/master/0088-merge-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Aiesha08/Aiesha08/tree/master/0209-minimum-size-subarray-sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aiesha08/Aiesha08/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0500-keyboard-row](https://github.com/Aiesha08/Aiesha08/tree/master/0500-keyboard-row) |
@@ -85,12 +86,14 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Aiesha08/Aiesha08/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/Aiesha08/Aiesha08/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Aiesha08/Aiesha08/tree/master/0125-valid-palindrome) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aiesha08/Aiesha08/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Aiesha08/Aiesha08/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Aiesha08/Aiesha08/tree/master/0088-merge-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aiesha08/Aiesha08/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Aiesha08/Aiesha08/tree/master/0389-find-the-difference) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Aiesha08/Aiesha08/tree/master/1877-minimize-maximum-pair-sum-in-array) |
