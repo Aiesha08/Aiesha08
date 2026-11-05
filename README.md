@@ -47,6 +47,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Aiesha08/Aiesha08/tree/master/0067-add-binary) |
 | [0222-count-complete-tree-nodes](https://github.com/Aiesha08/Aiesha08/tree/master/0222-count-complete-tree-nodes) |
 | [0389-find-the-difference](https://github.com/Aiesha08/Aiesha08/tree/master/0389-find-the-difference) |
 ## Array
@@ -118,6 +119,7 @@
 | [0012-integer-to-roman](https://github.com/Aiesha08/Aiesha08/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Aiesha08/Aiesha08/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Aiesha08/Aiesha08/tree/master/0020-valid-parentheses) |
+| [0067-add-binary](https://github.com/Aiesha08/Aiesha08/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Aiesha08/Aiesha08/tree/master/0125-valid-palindrome) |
 | [0389-find-the-difference](https://github.com/Aiesha08/Aiesha08/tree/master/0389-find-the-difference) |
 | [0500-keyboard-row](https://github.com/Aiesha08/Aiesha08/tree/master/0500-keyboard-row) |
@@ -133,6 +135,7 @@
 | [0012-integer-to-roman](https://github.com/Aiesha08/Aiesha08/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Aiesha08/Aiesha08/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Aiesha08/Aiesha08/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Aiesha08/Aiesha08/tree/master/0067-add-binary) |
 ## Recursion
 |  |
 | ------- |
@@ -143,4 +146,8 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Aiesha08/Aiesha08/tree/master/0011-container-with-most-water) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Aiesha08/Aiesha08/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Aiesha08/Aiesha08/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
