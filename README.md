@@ -61,6 +61,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aiesha08/Aiesha08/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0066-plus-one](https://github.com/Aiesha08/Aiesha08/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Aiesha08/Aiesha08/tree/master/0088-merge-sorted-array) |
+| [0198-house-robber](https://github.com/Aiesha08/Aiesha08/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/Aiesha08/Aiesha08/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Aiesha08/Aiesha08/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aiesha08/Aiesha08/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -155,6 +156,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Aiesha08/Aiesha08/tree/master/0070-climbing-stairs) |
+| [0198-house-robber](https://github.com/Aiesha08/Aiesha08/tree/master/0198-house-robber) |
 ## Memoization
 |  |
 | ------- |
