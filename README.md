@@ -86,6 +86,7 @@
 | [0012-integer-to-roman](https://github.com/Aiesha08/Aiesha08/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Aiesha08/Aiesha08/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/Aiesha08/Aiesha08/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Aiesha08/Aiesha08/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aiesha08/Aiesha08/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Aiesha08/Aiesha08/tree/master/0389-find-the-difference) |
 | [0500-keyboard-row](https://github.com/Aiesha08/Aiesha08/tree/master/0500-keyboard-row) |
@@ -110,6 +111,7 @@
 | [0018-4sum](https://github.com/Aiesha08/Aiesha08/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/Aiesha08/Aiesha08/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Aiesha08/Aiesha08/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Aiesha08/Aiesha08/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aiesha08/Aiesha08/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Aiesha08/Aiesha08/tree/master/0389-find-the-difference) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Aiesha08/Aiesha08/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -122,6 +124,7 @@
 | [0020-valid-parentheses](https://github.com/Aiesha08/Aiesha08/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/Aiesha08/Aiesha08/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Aiesha08/Aiesha08/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/Aiesha08/Aiesha08/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Aiesha08/Aiesha08/tree/master/0389-find-the-difference) |
 | [0500-keyboard-row](https://github.com/Aiesha08/Aiesha08/tree/master/0500-keyboard-row) |
 ## Linked List
