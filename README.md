@@ -64,6 +64,7 @@
 | [0198-house-robber](https://github.com/Aiesha08/Aiesha08/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/Aiesha08/Aiesha08/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Aiesha08/Aiesha08/tree/master/0217-contains-duplicate) |
+| [0322-coin-change](https://github.com/Aiesha08/Aiesha08/tree/master/0322-coin-change) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aiesha08/Aiesha08/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0500-keyboard-row](https://github.com/Aiesha08/Aiesha08/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/Aiesha08/Aiesha08/tree/master/0575-distribute-candies) |
@@ -160,8 +161,21 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/Aiesha08/Aiesha08/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Aiesha08/Aiesha08/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/Aiesha08/Aiesha08/tree/master/0322-coin-change) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Aiesha08/Aiesha08/tree/master/0070-climbing-stairs) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Aiesha08/Aiesha08/tree/master/0322-coin-change) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Aiesha08/Aiesha08/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Aiesha08/Aiesha08/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
